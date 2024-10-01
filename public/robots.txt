@@ -1,0 +1,15 @@
+# *
+User-agent: *
+Disallow: /thank-you
+
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.yourwebsite.com
+
+# Sitemaps
+Sitemap: https://www.yourwebsite.com/sitemap.xml
+Sitemap: https://www.yourwebsite.com/sitemap-blog.xml
+Sitemap: https://www.yourwebsite.com/sitemap-posts.xml
